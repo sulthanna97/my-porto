@@ -34,6 +34,13 @@ export default function About() {
                         <div className="border-t border-gray-300 my-2"></div>
                         <div className="mb-4 flex justify-between">
                             <div>
+                                <h3 className="text-xl font-bold">Javascript Fullstack Developer Bootcamp</h3>
+                                <p className="text-gray-600">Hacktiv8</p>
+                            </div>
+                            <p>2023</p>
+                        </div>
+                        <div className="mb-4 flex justify-between">
+                            <div>
                                 <h3 className="text-xl font-bold">Bachelor's Degree in International Relations</h3>
                                 <p className="text-gray-600">Padjadjaran University</p>
                             </div>
